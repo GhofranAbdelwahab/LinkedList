@@ -163,14 +163,4 @@ void ReversePrint(Node head) {
         
 }
 
-
-//    public void deleteIdx(int idx)
-//    {
-//        Node start = Root;
-//        
-//    }
-//    public void deleteFirstVal(int val)
-//    {
-//        
-//    }
 }
